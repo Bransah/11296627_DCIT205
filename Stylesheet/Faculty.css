@@ -1,0 +1,50 @@
+
+  footer {
+  background:-o-linear-gradient(black,rgb(12,11,20));
+  color: white;
+  padding: 20px;
+
+}
+
+
+.social-media {
+  list-style: none;
+  padding: 0;
+  text-align: right;
+}
+
+.social-media li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.social-media img{
+  width: 50px;
+  height: 50px;
+  border-radius: 40px;
+}
+.social-media li:last-child {
+  margin-right: 0;
+}
+  body{
+    background:linear-gradient(rgb(44, 81, 214),black);
+    color: rgb(204, 215, 224);
+  }
+
+  .content-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  margin-top: 40px;
+  
+}
+
+.content {
+  width: 45%;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.content p {
+  color: rgb(240, 233, 233);
+}

@@ -1,0 +1,152 @@
+
+    body {
+      background:linear-gradient(white,blue,indigo,rgb(100, 29, 100));
+      color: white;
+      font-family: Arial, sans-serif;
+         
+    } 
+    .content {
+      position: relative;
+      z-index: 1; 
+      text-align: center;
+      color: #161515;
+      padding: 50px;
+    }   
+    .content h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+    .content p {
+      font-size: 1.2em;
+    }
+    footer {
+      color: rgb(223, 217, 217);
+      padding: 20px;
+
+    }    
+    
+    .social-media {
+      list-style: none;
+      padding: 0;
+      text-align: right;
+      display: flex;
+      justify-content: right;
+      
+    }
+    
+    .social-media li {
+      display: inline-block;
+      margin-right: 5px;
+    }
+    .social-media img{
+      width: 50px;
+      height: 50px;
+      border-radius: 40px;
+    }
+    .social-media li:last-child {
+      margin-right: 0;
+    }
+      
+    
+      .content-container {
+      display: flex;
+      justify-content: space-around;
+      align-items: flex-start;
+      margin-top: 45px;
+      
+    }
+    
+    .content {
+      width: 90%;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+
+    header {
+      text-align: center;
+      padding: 20px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 20px;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+    .semester-list { display: none;}
+    button {
+      background-color: white;
+      color: black;
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    .semester-list1 { display: none;}
+    button {
+      background-color: white;
+      color: black;
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    .semester-list2 { display: none;}
+    button {
+      background-color: white;
+      color: black;
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    .semester-list3{ display: none;}
+    button {
+      background-color: white;
+      color: black;
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    button:hover {
+      background-color: transparent;
+      color: rgb(102, 102, 233);
+      border: 1px solid blue;
+    }
+  
