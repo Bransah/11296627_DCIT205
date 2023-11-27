@@ -1,6 +1,6 @@
 
   .footer-link{
-    color: black;
+    color:white;
     font-weight: 70px;
   } 
   
@@ -35,7 +35,7 @@
       position: relative;
       z-index: 1; 
       text-align: center;
-      color: #161515;
+      color: white;
       padding: 50px;
     }
     .content h1 {
@@ -46,7 +46,7 @@
       font-size: 1.2em;
     }
     footer {
-      color: rgb(16, 15, 15);
+      color:white;
       padding: 20px;
 
     }    
