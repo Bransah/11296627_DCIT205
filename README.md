@@ -55,6 +55,16 @@ git push origin main___using gitbash
 ![Programmes 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/240190f3-bc3f-4667-b60d-08042691fcb5)
 ![Programmes 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/bc1dc598-db66-46b2-bbeb-7ae5d573d26c)
 ![Programmes 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/bc13b15a-be50-445a-9a88-11d8267d969e)
+# Research 
+![Research 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/79c8c774-bc96-4cd5-bd47-f818f5251984)
+![Research 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/dd30d88f-948a-4d1e-a04f-7c39976a7512)
+![Research 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/4b806749-a699-44a7-a8b6-0659e07052fa)
+![Research 4](https://github.com/Bransah/11296627_DCIT205/assets/151935858/1bde91f7-3439-4316-80e6-99d081eac5a6)
+# Resources 
+![Resources 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/fc96f02e-b7d1-4b38-b4a1-961ea5296d37)
+![Resources 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/703081b6-5276-4b48-9687-cea2c1fa02ab)
+![Resources 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/f51b7e95-effc-4209-97b0-d4ae1353e2bc)
+
 
 
 
