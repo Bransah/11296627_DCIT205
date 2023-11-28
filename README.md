@@ -64,8 +64,8 @@ git push origin main___using gitbash
 ![Resources 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/fc96f02e-b7d1-4b38-b4a1-961ea5296d37)
 ![Resources 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/703081b6-5276-4b48-9687-cea2c1fa02ab)
 ![Resources 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/f51b7e95-effc-4209-97b0-d4ae1353e2bc)
-
-
+# Lesson Learned
+Organizing and highlighting my code is a basic lesson I acquired when building a website. Even though it might not seem like much, taking the time to properly organize my code and include comments everywhere makes it much simpler to read and update. It is also beneficial when working with others or returning to the project at a later time. I can ultimately save myself a great deal of time and grief by keeping the code structured and adding comments to clarify its purpose.
 
 
 
