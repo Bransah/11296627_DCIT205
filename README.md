@@ -42,5 +42,12 @@ git push origin main___using gitbash
 # Contact 
 ![Contact 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/c837b07c-e31a-4f60-a2f6-d720e21113ba)
 ![Contact 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/cf62dfe6-af44-4b9b-a077-58766595cb1c)
+# Faculty
+![Faculty 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/1091c488-e3f4-4fc0-9a99-6329d7dfbd51)
+![Faculty 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/61aa8547-9a84-4e0a-9d7b-0b9a62197a28)
+![Faculty 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/7bd7fd7d-ee07-4c47-853c-09e165106528)
+![Faculty 4](https://github.com/Bransah/11296627_DCIT205/assets/151935858/472bcd25-f51f-483f-918d-641e37b1688a)
+![Faculty 5](https://github.com/Bransah/11296627_DCIT205/assets/151935858/ee41785b-a94a-4ead-853e-53803123b7bf)
+
 
 
