@@ -48,6 +48,10 @@ git push origin main___using gitbash
 ![Faculty 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/7bd7fd7d-ee07-4c47-853c-09e165106528)
 ![Faculty 4](https://github.com/Bransah/11296627_DCIT205/assets/151935858/472bcd25-f51f-483f-918d-641e37b1688a)
 ![Faculty 5](https://github.com/Bransah/11296627_DCIT205/assets/151935858/ee41785b-a94a-4ead-853e-53803123b7bf)
+# Help
+![Help 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/64696321-2d9a-4918-87e9-b64165c40221)
+![Help 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/b8391453-ad2e-44b7-bfd9-94958aba3bdd)
+
 
 
 
