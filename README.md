@@ -21,10 +21,18 @@
 git commit -m "Add descriptive commit message here"
 git push origin main___using gitbash
 ### 6 Host your website
-## Homepage
+# Homepage
 ![Home Page](https://github.com/Bransah/11296627_DCIT205/assets/151935858/1baf4818-0f68-4204-bef4-8ef360196c84)
-## About
+# About
 ![About 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/0048d95e-ff19-4c37-9977-d52c099c37f3)
 ![About 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/9a06d45a-0e51-46de-aadc-b5e170910dbc)
 ![About 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/ff0ed2e8-682e-4b0e-ab6d-25242f6e2c93)
 ![About 4](https://github.com/Bransah/11296627_DCIT205/assets/151935858/9917fc55-e036-40ee-a37e-78caf6c059b4)
+# Academics
+![Academics 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/3aed97d9-70e7-46c4-94ef-638366a143b2)
+![Academics 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/9a845969-5ac1-45d3-a607-5d2d5bda0a00)
+![Academics 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/fde548a1-a1d9-4adc-aac0-8440bdf432d3)
+![Academics 4](https://github.com/Bransah/11296627_DCIT205/assets/151935858/023a7ac2-2726-41c4-82dd-7e2ad580b0cd)
+![Academics 5](https://github.com/Bransah/11296627_DCIT205/assets/151935858/37e45267-dd60-4847-ac14-797648f52378)
+![Academics 6](https://github.com/Bransah/11296627_DCIT205/assets/151935858/8198e97e-1fbd-43c9-8dc5-e76a1494b598)
+
