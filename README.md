@@ -21,5 +21,10 @@
 git commit -m "Add descriptive commit message here"
 git push origin main___using gitbash
 ### 6 Host your website
-### Homepage
+## Homepage
 ![Home Page](https://github.com/Bransah/11296627_DCIT205/assets/151935858/1baf4818-0f68-4204-bef4-8ef360196c84)
+## About
+![About 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/0048d95e-ff19-4c37-9977-d52c099c37f3)
+![About 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/9a06d45a-0e51-46de-aadc-b5e170910dbc)
+![About 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/ff0ed2e8-682e-4b0e-ab6d-25242f6e2c93)
+![About 4](https://github.com/Bransah/11296627_DCIT205/assets/151935858/9917fc55-e036-40ee-a37e-78caf6c059b4)
