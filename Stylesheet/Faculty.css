@@ -26,8 +26,8 @@
   margin-right: 0;
 }
   body{
-    background:linear-gradient(rgb(44, 81, 214),black);
-    color: rgb(204, 215, 224);
+    background:linear-gradient(rgb(125, 126, 129),rgb(38, 37, 37));
+    color: white;
   }
 
   .content-container {
