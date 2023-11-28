@@ -1,7 +1,7 @@
 
     body {
-      background:linear-gradient(white,blue,indigo,rgb(100, 29, 100));
-      color: white;
+      background:linear-gradient(white,rgb(161, 156, 148),white,rgb(161, 156, 148));
+      color: black;
       font-family: Arial, sans-serif;
          
     } 
@@ -20,7 +20,7 @@
       font-size: 1.2em;
     }
     footer {
-      color: rgb(223, 217, 217);
+      color: black;
       padding: 20px;
 
     }    
