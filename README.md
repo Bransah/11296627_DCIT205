@@ -35,4 +35,9 @@ git push origin main___using gitbash
 ![Academics 4](https://github.com/Bransah/11296627_DCIT205/assets/151935858/023a7ac2-2726-41c4-82dd-7e2ad580b0cd)
 ![Academics 5](https://github.com/Bransah/11296627_DCIT205/assets/151935858/37e45267-dd60-4847-ac14-797648f52378)
 ![Academics 6](https://github.com/Bransah/11296627_DCIT205/assets/151935858/8198e97e-1fbd-43c9-8dc5-e76a1494b598)
+# Catalog
+![Catalog 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/af4efca9-f0dc-46a5-a461-0d7716f904a1)
+![Catalog 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/cda47e79-0048-4088-8f16-b2c890a7f1c2)
+![Catalog 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/56dfe3ce-7ee3-4b22-8591-586445a084fe)
+
 
