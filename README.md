@@ -51,6 +51,11 @@ git push origin main___using gitbash
 # Help
 ![Help 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/64696321-2d9a-4918-87e9-b64165c40221)
 ![Help 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/b8391453-ad2e-44b7-bfd9-94958aba3bdd)
+# Programmes
+![Programmes 1](https://github.com/Bransah/11296627_DCIT205/assets/151935858/240190f3-bc3f-4667-b60d-08042691fcb5)
+![Programmes 2](https://github.com/Bransah/11296627_DCIT205/assets/151935858/bc1dc598-db66-46b2-bbeb-7ae5d573d26c)
+![Programmes 3](https://github.com/Bransah/11296627_DCIT205/assets/151935858/bc13b15a-be50-445a-9a88-11d8267d969e)
+
 
 
 
